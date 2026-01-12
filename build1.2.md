@@ -34,7 +34,7 @@ google-services.json (Android)
 
 GoogleService-Info.plist (iOS)
 
-##🔹 Build Image
+## 🔹 Build Image
 
 ### 1. Build API (app)
 ```
