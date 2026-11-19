@@ -32,6 +32,11 @@ chmod +x build-and-push-web.sh
 ```
 
 ---
+### 4. S3
+
+* [ ] เพิ่ม forder place-images
+* [ ] เพิ่ม forder category-images(** ถ้ายังไม่มี )
+* [ ] เพิ่ม forder games
 
 ## 🔹 Kubernetes Deployment
 
